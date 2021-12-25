@@ -33,8 +33,7 @@ AVs are equipped with cameras and sensors at different positions used in the est
 
 ## Requirments
 ## Dataset
-## Pretrained Model for Depth Estimation
-## Inference of Depth Estimation
+## Depth Estimation
 ## Conversion from Depth Map to Point Cloud
 ## 3D Object Detection
 ## Bird's Eye View
