@@ -29,6 +29,8 @@ AVs are equipped with cameras and sensors at different positions used in the est
 
 [Results](#results)
 
+[References](#references)
+
 
 
 ## Requirments
@@ -38,5 +40,5 @@ AVs are equipped with cameras and sensors at different positions used in the est
 ## 3D Object Detection
 ## Bird's Eye View
 ## Results
-
+## References
 
