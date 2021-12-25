@@ -11,3 +11,18 @@ Environment Perception is a critical feature for autonomous vehicles as it provi
 AVs are equipped with cameras and sensors at different positions used in the estimation of the current position of the vehicle and the vehicles and obstacles in its vicinity.
 
 ### Outline
+
+Requirments
+Dataset
+Pretrained Model for Depth Estimation
+Inference of Depth Estimation
+Conversion from Depth Map to Point Cloud
+3D Object Detection
+Bird's Eye View
+
+link: [Go to Heading section] (#-this-is-a-heading)
+heading: # This is a heading
+
+
+
+
