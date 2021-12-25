@@ -19,9 +19,7 @@ AVs are equipped with cameras and sensors at different positions used in the est
 
 [Dataset](#dataset)
 
-[Pretrained Model for Depth Estimation](#pretrained-model-for-depth-estimation)
-
-[Inference of Depth Estimation](#inference-of-depth-estimation)
+[Depth Estimation](#depth-estimation)
 
 [Conversion from Depth Map to Point Cloud](#conversion-from-depth-map-to-point-cloud)
 
